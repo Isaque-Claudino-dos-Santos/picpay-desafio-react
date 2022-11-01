@@ -6,7 +6,7 @@ export default function Home(): JSX.Element {
     <>
       <header>
         <CurrentPageTextRibbon text="Home" />
-        <Title text="Welcome to home page" />
+        <Title text="PayFriends" />
         {/* nav bar */}
       </header>
     </>
